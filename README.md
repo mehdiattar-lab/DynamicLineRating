@@ -1,3 +1,11 @@
+Author:
+
+> Mehdi Attar
+>
+> Tampere University
+>
+> Finland
+
 # DynamicLineRating
 The Wrapper.py code is a plug-and-play script that reads data from two CSV files (e.g., for wind speed and temperature) and performs DLR analysis of overhead transmission line.
 The condoctor characteristics should be modified in the condoctor.py file.
