@@ -1,4 +1,4 @@
-# Copyright 2023 Tampere University.
+# Copyright 2025 Tampere University.
 # This software was developed within Hedge-IoT project, co-funded by European Union.
 # This source code is licensed under the MIT license. See LICENSE in the repository root directory.
 # This software can utilize the dynamic line rating of over head lines in power systems either based on IEEE 738 standard or CIGRE 601 standard (similar standards)
